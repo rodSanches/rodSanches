@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Rodrigo Sanches
 
-### 💻 Desenvolvedor | 📊 Data Analytics | ☁️ Cloud
+### 💻 </> | 📊 Data Analytics | ☁️ Cloud
 
 Transformo dados e processos em **dashboards, automações e sistemas web**.
 
@@ -53,7 +53,6 @@ Transformo dados e processos em **dashboards, automações e sistemas web**.
 - 🐍 Python e Django
 - 🗄️ Bancos de Dados e SQL
 - ☁️ Cloud Computing
-- 🔐 Segurança da Informação
 
 ---
 
